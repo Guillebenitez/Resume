@@ -1,1 +1,54 @@
 # Resume
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV de Guillermo Daniel Benitez Rodriguez</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Guillermo Daniel Benitez Rodriguez</h1>
+        </header>
+        
+        <section class="contact-info">
+            <p>Email: guillebenitez014@gmail.com</p>
+            
+            <p>Teléfono: +595 991725234 +595 981049366</p>
+            <p>Fecha de nacimiento: 1996-09-27</p>
+            <p>Nacionalidad: Paraguaya</p>
+        </section>
+        
+        
+        
+        <section class="education">
+            <h2>Educación Académica</h2>
+            <ul>
+                <li>
+                    <h3>Grado en Ing. Mecatrónica (Cursando 4/5)</h3>
+                    <p>Facultad de ingeniería UNA</p>
+                    <p>San Lorenzo, Paraguay</p>
+                </li>
+                <li>
+                    <h3>Bachillerato Técnico en Salud</h3>
+                    <p>Colegio Privado Maria Auxiliadora</p>
+                    <p>San Lorenzo, Paraguay</p>
+                    <p>2013</p>
+                </li>
+            </ul>
+        </section>
+        
+        
+        <section class="languages">
+            <h2>Idiomas</h2>
+            <ul>
+                <li>Español: Nivel avanzado</li>
+                <li>Inglés: Nivel intermedio</li>
+                <li>Guaraní: Nivel intermedio</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
